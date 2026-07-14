@@ -1,10 +1,10 @@
-# 🚀 Advanced Backend Engineering
+# Advanced Backend Engineering
 
 A hands-on, progressive learning repository covering real-world backend engineering patterns — from containerizing a simple Express server all the way to building AI agents with RAG pipelines. Each **level** targets a specific domain; each **phase** inside it iterates from a basic proof-of-concept to a production-shaped architecture.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Repository Structure](#repository-structure)
